@@ -5,6 +5,7 @@ ruby "3.1.2"
 
 gem 'rspec'
 gem 'cucumber'
+gem 'coveralls', require: false
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.0.7", ">= 7.0.7.2"
