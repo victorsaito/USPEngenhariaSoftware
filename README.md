@@ -1,24 +1,5 @@
-# README
+# Engenharia de Sistemas de Informação (ACH2006)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+[![Maintainability CodeClimate](https://api.codeclimate.com/v1/badges/3a0f9f598e8079d0272b/maintainability)](https://codeclimate.com/github/victorsaito/USPEngenhariaSoftware/maintainability)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![Github Actions](https://github.com/victorsaito/USPEngenhariaSoftware/actions/workflows/rubyonrails.yml/badge.svg)
