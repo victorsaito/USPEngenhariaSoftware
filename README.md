@@ -12,6 +12,6 @@
 Ainda não definido
 
 ### Integrantes:
-* Stefano Bisognin de Almeida
+* Stefano Bisognin de Almeida - 10783069 - stefano.almeida@usp.br
 * Victor Marcilio Saito - 10387665 - victor_saito@usp.br
-* Vinícius Zacarias Lacerda Brito
+* Vinícius Zacarias Lacerda Brito - 10783198 - vinizlb15@usp.br
