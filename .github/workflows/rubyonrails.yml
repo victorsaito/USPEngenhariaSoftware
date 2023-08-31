@@ -24,10 +24,10 @@ jobs:
           bundler-cache: true
 
       - name: Run RSpec Tests
-        run: rake spec
+        run: bundle exec rake spec
 
       - name: Run Cucumber Tests
-        run: rake cucumber
+        run: bundle exec rake cucumber
 
       - name: Coveralls
         uses: coverallsapp/github-action@v2
