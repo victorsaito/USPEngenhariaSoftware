@@ -4,7 +4,7 @@
 #
 # This workflow will install a prebuilt Ruby version, install dependencies, and
 # run tests and linters.
-name: "Ruby on Rails CI"
+name: "Ruby on Rails CI/CD"
 on:
   push:
     branches: [ "main" ]
@@ -31,3 +31,10 @@ jobs:
 
       - name: Coveralls
         uses: coverallsapp/github-action@v2
+
+  deploy:
+    needs: test_coveralls
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fire Webhook Deploy on Render
+        run: curl -X GET "${{ secrets.WEBHOOK_RENDER_URL }}"
