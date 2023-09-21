@@ -12,6 +12,9 @@
 Ainda não definido
 
 ### Integrantes:
+* Gabriel Moraya de Campos - 12681740 - gabrielmoraya@usp.br
+* João Victor Batista da Silva - 12704290
+* Leonardo Tetsuo Watanabe - 12563773 - leonardo.watanabe@usp.br
 * Stefano Bisognin de Almeida - 10783069 - stefano.almeida@usp.br
 * Victor Marcilio Saito - 10387665 - victor_saito@usp.br
 * Vinícius Zacarias Lacerda Brito - 10783198 - vinizlb15@usp.br
